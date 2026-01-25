@@ -1,5 +1,7 @@
 # 💫 About Me:
-I have hands on experience in java, python, c ,html ,javascript, node.js,css 
+💻 Aspiring full stack aspiring full stack developer with a strong foundation in web technologies and version control
+🌱Currently learning back-end development, API.
+🛠️Interested in building efficient scalable web applications and improving problem-solving skills.
 
 
 ## 🌐 Socials:
