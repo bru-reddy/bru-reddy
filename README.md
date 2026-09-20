@@ -21,7 +21,7 @@
 
 <br>
 
-> Building ideas into real-world applications, one line of code at a time.
+> Building practical software, solving real-world problems, and continuously growing as a developer.
 
 </div>
 
@@ -30,62 +30,29 @@
 ## 👩‍💻 About Me
 
 I'm a Computer Science & Engineering student focused on becoming a strong
-full-stack developer with solid foundations in programming, data structures,
-backend engineering, APIs, databases, and modern web technologies.
+full-stack software engineer with solid foundations in programming, data
+structures, backend engineering, APIs, databases, and modern web technologies.
 
-I enjoy turning ideas into functional applications and continuously improving
-my ability to design, build, debug, deploy, and maintain real-world software.
+I enjoy taking an idea from concept to implementation — designing interfaces,
+building APIs, integrating databases, debugging applications, and deploying
+working software.
 
-<table>
-<tr>
-<td width="50%">
+My development journey focuses on three areas:
 
-### 💻 Build
-
-Building responsive and scalable web applications with modern frontend and backend technologies.
-
-</td>
-
-<td width="50%">
-
-### 🧠 Learn
-
-Continuously strengthening programming, DSA, backend development, system design, and core CS concepts.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔧 Solve
-
-Interested in solving real-world problems through software and improving my problem-solving skills.
-
-</td>
-
-<td width="50%">
-
-### 🚀 Grow
-
-Learning through projects, experimentation, collaboration, feedback, and real-world development.
-
-</td>
-</tr>
-</table>
+- **Full-Stack Development** — building complete applications from frontend to backend.
+- **Backend Engineering** — developing APIs, authentication systems, database integrations, and application logic.
+- **Problem Solving** — strengthening Java, DSA, core CS concepts, and software engineering fundamentals.
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 Portfolio
 
 <div align="center">
 
-### Explore my work, projects, and development journey
+### Explore my projects, skills, experience, and development journey
 
 <a href="https://sai-brundha-portfolio.onrender.com/">
-
-<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-7C3AED?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-7C3AED?style=for-the-badge" />
 </a>
 
 </div>
@@ -94,74 +61,229 @@ Learning through projects, experimentation, collaboration, feedback, and real-wo
 
 # 🚀 Featured Projects
 
-## 🚦 Intelligent Road Traffic Management System
+A collection of full-stack, AI-powered, and software engineering projects
+developed through hands-on implementation and experimentation.
 
-### IRTMS
+---
 
-An intelligent traffic management platform focused on monitoring,
-predicting, analyzing, and managing road traffic through a centralized
-web application.
+## 🚦 01. Intelligent Road Traffic Management System — IRTMS
 
-**Key Areas**
+An AI-powered traffic management platform developed as part of the
+**Infosys Springboard Virtual Internship 7.0**.
+
+IRTMS provides a centralized platform for monitoring traffic conditions,
+analyzing congestion, predicting traffic patterns, planning routes, managing
+alerts, and visualizing traffic analytics.
+
+### Key Features
 
 - Real-time traffic monitoring
 - Traffic prediction
-- Route analysis
+- Congestion analysis
+- Traffic-aware route planning
 - Alerts and notifications
 - Analytics and visualization
+- Role-based access control
 - User management
-- Workflow management
 - REST API integration
+- Interactive map functionality
+- Dockerized architecture
 
-**Tech Stack**
+### Tech Stack
 
-`React` `Vite` `Python` `FastAPI` `REST APIs` `Docker` `Database`
+`React` `Vite` `Python` `FastAPI` `REST APIs` `JWT` `Leaflet` `TomTom API` `Docker` `SQLite` `SQLAlchemy`
+
+<p>
+<a href="https://github.com/bru-reddy/Intelligent_Road_Traffic_Management_System">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://intelligent-road-traffic-management-u87d.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-7C3AED?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-## 🛒 E-Commerce Web Application
+## 💼 02. JobSphere — Job Portal & Recruitment System
 
-A full-stack e-commerce application designed around a complete online
-shopping workflow.
+A Java full-stack recruitment platform built around dedicated
+**Candidate, Recruiter, and Company** workspaces.
 
-**Key Areas**
+The system supports the recruitment workflow from job discovery and application
+submission to job posting and applicant management.
 
-- User registration and authentication
+### Key Features
+
+- Candidate registration and authentication
+- Job discovery and search
+- Candidate dashboard
+- Structured job applications
+- Recruiter workspace
+- Job posting and management
+- Applicant review
+- Company profiles
+- Company directory
+- Skills-learning resources
 - Role-based access
+- Secure authentication
+- PostgreSQL integration
+
+### Tech Stack
+
+`React` `Vite` `Java` `Spring Boot 3` `Spring Security` `BCrypt` `PostgreSQL` `REST APIs`
+
+<p>
+<a href="https://github.com/bru-reddy/Job_Portal_And_Recruitment_System">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://jobsphere-frontend-2x4k.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-7C3AED?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+## 🛒 03. Cartiva — Online Shopping Website
+
+A MERN-stack marketplace connecting independent sellers with customers through
+a complete online shopping workflow.
+
+The application provides separate customer and seller experiences covering
+authentication, product management, shopping, checkout, and order tracking.
+
+### Key Features
+
+- Customer and seller registration
+- Role-based authentication
 - Product management
+- Product browsing and search
+- Filtering and product details
 - Shopping cart
-- Product browsing
-- Backend APIs
-- Database integration
-- Secure checkout workflow
+- Checkout workflow
+- Seller-specific order visibility
+- Seller notifications
+- Order history and status tracking
+- Responsive interface
+- JWT authentication
+- HTTP-only cookies
 
-**Tech Stack**
+### Tech Stack
 
-`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST APIs`
+`React` `Vite` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs`
 
----
-
-## ✨ Velora
-
-An AI-powered web application focused on integrating modern AI capabilities
-into a practical and user-friendly application.
-
-**Key Areas**
-
-- AI-powered functionality
-- API integration
-- Interactive user interface
-- Modern frontend architecture
-- Backend communication
-- Responsive application design
-
-**Tech Stack**
-
-`React` `JavaScript` `Gemini API` `REST APIs` `Render`
+<p>
+<a href="https://github.com/bru-reddy/Online_Shopping_Website">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://cartiva-uzni.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-7C3AED?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## ✨ 04. Velora — AI Menu Recommendation System
+
+An AI-powered personalized food discovery application that combines a menu
+dataset with AI-driven recommendations.
+
+Users can receive recommendations based on diet, cuisine, budget, spice level,
+meal type, calorie preference, allergies, and mood.
+
+### Key Features
+
+- AI-powered menu recommendations
+- Dietary-aware recommendations
+- Allergy-aware recommendations
+- Cuisine filtering
+- Menu search
+- Budget-based preferences
+- Calorie preferences
+- Spice-level preferences
+- Meal-type selection
+- Mood-based recommendations
+- Health-score information
+- Favorites
+- Responsive interface
+- Backend validation and sanitization
+- Rate limiting and security headers
+- AI API integration
+
+### Tech Stack
+
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `Google Gemini API` `REST APIs` `Render`
+
+<p>
+<a href="https://github.com/bru-reddy/Velora">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://bru-reddy.github.io/Velora/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-7C3AED?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+## 📚 05. Tales of History
+
+An interactive history and mythology learning platform designed to make
+historical topics easier to explore and understand.
+
+The project combines structured educational content, interactive learning
+features, and an AI tutoring concept.
+
+### Key Features
+
+- History and mythology library
+- Topic-based exploration
+- Search functionality
+- Interactive timelines
+- Visual and documentary resources
+- Contextual AI tutoring
+- Topic summaries
+- Exam-oriented notes
+- Related-topic discovery
+- Responsive interface
+
+### Tech Stack
+
+`React` `Vite` `CSS` `Node.js` `Express.js` `MongoDB` `AI Integration`
+
+<p>
+<a href="https://github.com/bru-reddy/Tales-of-History">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🧩 06. Coding & DSA Practice
+
+A dedicated repository for programming practice, problem solving, and
+strengthening coding fundamentals.
+
+### Focus Areas
+
+- Java programming
+- Data Structures & Algorithms
+- Problem solving
+- Algorithmic thinking
+- Coding practice
+- Interview preparation
+
+### Tech Focus
+
+`Java` `DSA` `Algorithms` `Problem Solving`
+
+<p>
+<a href="https://github.com/bru-reddy/Coding">
+<img src="https://img.shields.io/badge/💻_Practice_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 💻 Technical Skills
 
 ## Programming Languages
 
@@ -188,6 +310,7 @@ into a practical and user-friendly application.
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 </p>
 
@@ -195,14 +318,17 @@ into a practical and user-friendly application.
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-## AI & APIs
+## AI & Intelligent Applications
 
 <p>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_API_Integration-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Powered_Applications-7C3AED?style=for-the-badge"/>
 </p>
 
 ## Tools & DevOps
@@ -219,92 +345,20 @@ into a practical and user-friendly application.
 
 # 📚 Currently Learning & Exploring
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Programming & DSA
-
-- Advanced Java
-- Data Structures & Algorithms
-- Problem Solving
-- Competitive Programming
-- Interview Preparation
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend Engineering
-
-- Backend Development
-- REST API Design
-- Authentication
-- Database Systems
-- API Integration
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🏗️ Software Engineering
-
-- System Design
-- Scalable Architecture
-- Software Engineering Practices
-- Git & GitHub Workflows
-- Docker & Deployment
-
-</td>
-
-<td>
-
-### 🤖 AI & Machine Learning
-
-- Python for AI/ML
-- Machine Learning
-- AI APIs
-- AI-powered Applications
-- Intelligent Systems
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌐 Full-Stack Development
-
-- React
-- JavaScript
-- Backend Development
-- Databases
-- Cloud Deployment
-
-</td>
-
-<td>
-
-### 💻 Core Computer Science
-
-- DBMS
-- Operating Systems
-- Computer Networks
-- Theory of Computation
-- Computer Organization & Architecture
-- Compiler Design
-
-</td>
-</tr>
-</table>
+| Area | Focus |
+|---|---|
+| **Programming & DSA** | Advanced Java, Data Structures, Algorithms, Problem Solving, Competitive Programming |
+| **Backend Engineering** | Java Backend, REST API Design, Authentication, Database Systems, API Integration |
+| **Software Engineering** | System Design, Scalable Architecture, Git Workflows, Docker, Deployment |
+| **AI & Machine Learning** | Python for AI/ML, Machine Learning, AI APIs, Intelligent Applications |
+| **Full-Stack Development** | React, JavaScript, Backend Development, Databases, Cloud Deployment |
+| **Core Computer Science** | DBMS, Operating Systems, Computer Networks, TOC, COA, Compiler Design |
 
 ---
 
-# 🎯 What I'm Working Toward
+# 🎯 Development Goals
 
-My goal is to become a well-rounded software engineer who can take an idea
+My goal is to become a well-rounded software engineer capable of taking an idea
 from concept to a production-ready application.
 
 ```text
@@ -314,9 +368,11 @@ Data Structures & Algorithms
       ↓
 Frontend Development
       ↓
-Backend Development
+Backend Engineering
       ↓
 REST APIs & Databases
+      ↓
+Authentication & Security
       ↓
 System Design
       ↓
